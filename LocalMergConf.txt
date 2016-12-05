@@ -1,1 +1,3 @@
 local file merge conflict example
+
+LINE added by TNB
