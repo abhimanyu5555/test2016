@@ -1,3 +1,6 @@
 local file merge conflict example
 
+
 LINE added by TNB
+Lin added by vinish
+
